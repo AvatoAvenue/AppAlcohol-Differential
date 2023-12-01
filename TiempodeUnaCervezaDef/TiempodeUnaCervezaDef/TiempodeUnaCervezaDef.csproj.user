@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Lordv\Desktop\Pruebas\Tiempo de una cerveza app\|C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\|C:\Users\Lordv\Desktop\Pruebas\</PublishUrlHistory>
+    <InstallUrlHistory>https://drive.google.com/drive/folders/1zkFGVxSu3ESWvqD2UWzcNddKxq_SetyN%3fusp=share_link/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
