@@ -1,0 +1,56 @@
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.AssemblyReference.cache
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.Form1.resources
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.Properties.Resources.resources
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.GenerateResource.cache
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\TiempodeUnaCervezaDef.exe.config
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\TiempodeUnaCervezaDef.exe
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\TiempodeUnaCervezaDef.pdb
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.Form1.resources
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.Properties.Resources.resources
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.GenerateResource.cache
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.exe
+C:\Users\hp\Downloads\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.pdb
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\TiempodeUnaCervezaDef.exe.config
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\TiempodeUnaCervezaDef.exe
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\TiempodeUnaCervezaDef.pdb
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.AssemblyReference.cache
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.SuggestedBindingRedirects.cache
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.Form1.resources
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.Properties.Resources.resources
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.GenerateResource.cache
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.CoreCompileInputs.cache
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.exe
+D:\Descargas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.pdb
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\MySql.Data.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Google.Protobuf.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\ZstdNet.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\System.Memory.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\System.Buffers.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\MySql.Data.xml
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\TiempodeUnaCervezaDef.csproj.CopyComplete
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Devart.Data.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\MySql.Web.dll
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Devart.Data.xml
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Devart.Data.MySql.xml
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\MySql.Web.xml
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Tiempo de una cerveza.exe.config
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Tiempo de una cerveza.exe.manifest
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Tiempo de una cerveza.application
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Tiempo de una cerveza.exe
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\bin\Debug\Tiempo de una cerveza.pdb
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\Tiempo de una cerveza.exe.config
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\Tiempo de una cerveza.exe.manifest
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\Tiempo de una cerveza.application
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\Tiempo de una cerveza.exe
+C:\Users\Lordv\Desktop\Pruebas\TiempodeUnaCervezaDef\TiempodeUnaCervezaDef\obj\Debug\Tiempo de una cerveza.pdb
