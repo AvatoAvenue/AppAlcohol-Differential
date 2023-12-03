@@ -13,7 +13,7 @@ namespace TiempodeUnaCervezaDef
 
     class LlenadoCB
     {
-        private string connectionString = "Data Source=b1un9fsfnx0ccx4crkw2-mysql.services.clever-cloud.com; Initial Catalog=b1un9fsfnx0ccx4crkw2; User ID=ubrblapzicskrima; Password=b23t0oKz7ScIjGt4jXYz";
+        private string connectionString = "//";
 
         public List<Cervezas> Get()
         {
